@@ -14,7 +14,7 @@ Grok Imagine 워크플로우 효율화 도구
 
 | 항목 | 내용 |
 |------|------|
-| 버전 | 8.6.5 |
+| 버전 | 8.6.6 |
 | 지원 | [@raion.log](https://instagram.com/raion.log) |
 
 ---
